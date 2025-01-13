@@ -1,11 +1,10 @@
-package com.example.example_mod.mixin;
+package cn.ksmcbrigade.kee.mixin;
 
+import cn.ksmcbrigade.kee.ExampleMod;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
-
-import com.example.example_mod.ExampleMod;
 
 import net.minecraft.server.MinecraftServer;
 

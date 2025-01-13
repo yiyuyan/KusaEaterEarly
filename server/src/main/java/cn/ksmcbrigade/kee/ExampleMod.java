@@ -1,4 +1,4 @@
-package com.example.example_mod;
+package cn.ksmcbrigade.kee;
 
 import java.util.logging.LogManager;
 import java.util.logging.Logger;

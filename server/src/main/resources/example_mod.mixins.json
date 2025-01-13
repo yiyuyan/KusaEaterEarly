@@ -8,7 +8,7 @@
 	"client": [
 	],
 	"server": [
-		"MinecraftServerMixin"
+      "cn.ksmcbrigade.kee.mixin.MinecraftServerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
